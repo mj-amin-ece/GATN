@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+transformers
+openai
+torchnet
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+pillow

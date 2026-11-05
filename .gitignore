@@ -1,0 +1,13 @@
+# Data, checkpoints and caches
+dataset/
+runs/
+runs_gatn/
+embeddings/
+Adj_matrix/
+*.pth
+*.pkl
+
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
